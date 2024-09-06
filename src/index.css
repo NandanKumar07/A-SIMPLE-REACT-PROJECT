@@ -1,0 +1,10 @@
+/* src/assets/fonts/fonts.css */
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&display=swap" rel="stylesheet');
+
+:root {
+  background-color: #1a1a1a;
+  color:beige;
+  font-family: 'Handjet';
+  padding-top: 7%;
+}
+
